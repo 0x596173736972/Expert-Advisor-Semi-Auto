@@ -1,0 +1,6 @@
+[Settings]
+RiskPercentInitial=0.3
+StopLossPips=30.0
+TakeProfitPips=44.0
+MaxPositionsTotal=6
+ModeEntree=ENTRY_VWAP
