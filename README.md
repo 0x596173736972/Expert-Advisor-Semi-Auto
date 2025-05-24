@@ -1,7 +1,5 @@
 # EA - Robot de Trading Semi-Automatisé pour MetaTrader 5
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Un Expert Advisor (EA) MQL5 avancé avec gestion des risques, entrées basées sur VWAP, et stratégie de positionnement par couches.
 
 ## 📌 Fonctionnalités
