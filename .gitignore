@@ -1,0 +1,14 @@
+# Fichiers MetaTrader/MQL5
+*.ex5
+*.log
+*.tpl
+*.dll
+*.mqh
+
+# Fichiers temporaires
+*.tmp
+*.cache
+
+# IDE
+.vscode/
+.idea/
